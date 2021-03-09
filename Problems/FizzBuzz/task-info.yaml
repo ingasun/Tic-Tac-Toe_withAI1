@@ -1,0 +1,18 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8442
+status: Solved
+feedback:
+  message: |
+    Failed. Runtime error
+
+    Error:
+    Traceback (most recent call last):
+      File "jailed_code", line 13, in <module>
+        number = int(input())
+    EOFError: EOF when reading a line
+  time: Fri, 31 Jul 2020 13:58:56 UTC
+record: -1
